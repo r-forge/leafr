@@ -11,6 +11,9 @@ GC(normlas.file, threshold = 1)
 
 \item{threshold}{numerical, defines the minimum height considered to represent an echo from leaves.}
 }
+\value{
+A \code{\link[base:numeric]{numeric}} containing the Gini coefficient (GC) calculated from the normalized LAS file
+}
 \description{
 Calculates the Gini coefficient (GC) from individual LIDAR returns (i.e. without voxelization),
 as described for the L-coefficient of variation (equivalent to Gini) in Valbuena et al. (2017).
