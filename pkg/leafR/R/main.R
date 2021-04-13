@@ -486,6 +486,7 @@ GC = function(normlas.file, threshold = 1){
 #' A Leaf Area Index (LAI) [`RasterLayer`][raster::RasterLayer-class] produced from the LAD voxels output from [lad.voxels()] function.
 #'
 #' @examples
+#' library(raster)
 #' # Get the example laz file
 #' normlas.file = system.file("extdata", "lidar_example.laz", package="leafR")
 #'

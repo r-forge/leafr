@@ -19,6 +19,7 @@ A Leaf Area Index (LAI) \code{\link[raster:Raster-classes]{RasterLayer}} produce
 Produce a raster map of LAI. The resolution of the raster depends of grain.size choosed on lad.voxel() funtion.
 }
 \examples{
+library(raster)
 # Get the example laz file
 normlas.file = system.file("extdata", "lidar_example.laz", package="leafR")
 
