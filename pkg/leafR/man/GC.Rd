@@ -29,6 +29,6 @@ GC(normlas.file, threshold =1)
 
 }
 \references{
-Valbuena R., Packalen P., Martín-Fernández S., Maltamo M. (2012) Diversity and equitability ordering profiles applied to the study of forest structure. Forest Ecology and Management 276: 185–195. http://dx.doi.org/10.1016/j.foreco.2012.03.036
-Valbuena R., Maltamo M., Mehtätalo L., Packalen P. (2017) Key structural features of Boreal forests may be detected directly using L-moments from airborne lidar data. Remote Sensing of Environment. 194: 437–446. https://doi.org/10.1016/j.rse.2016.10.024
+Valbuena R., Packalen P., Martín-Fernández S., Maltamo M. (2012) Diversity and equitability ordering profiles applied to the study of forest structure. Forest Ecology and Management 276: 185–195. \doi{10.1016/j.foreco.2012.03.036}
+Valbuena R., Maltamo M., Mehtätalo L., Packalen P. (2017) Key structural features of Boreal forests may be detected directly using L-moments from airborne lidar data. Remote Sensing of Environment. 194: 437–446. \doi{10.1016/j.rse.2016.10.024}
 }
